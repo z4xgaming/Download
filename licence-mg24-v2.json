@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "product": "MG24_TCP",
+        "version": "1.1",
+        "license_model": "v2",
+        "build": "2026"
+    },
+    "license_id": "MG24-V2-SECURE",
+    "key": "MG24-SECURE-KEY-V2",
+    "features": [
+        {
+            "name": "tcp_hosting",
+            "enabled": true,
+            "limit": 1
+        },
+        {
+            "name": "dashboard_access",
+            "enabled": true
+        },
+        {
+            "name": "security_layer",
+            "enabled": true
+        }
+    ]
+}
